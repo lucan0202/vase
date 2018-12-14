@@ -1,0 +1,123 @@
+* {
+    -webkit-tap-highlight-color: transparent;
+    outline: 0
+}
+
+* , blockquote, body, button, dd, dl, dt, fieldset, form, h1, h2, h3, h4,
+h5, h6, hr, input, legend, li, ol, p, pre, td, textarea, th, ul {
+    margin: 0;
+    padding: 0;
+    vertical-align: baseline
+}
+
+img {
+    border: 0 none;
+    vertical-align: top
+}
+
+em, i {
+    font-style: normal
+}
+
+ol, ul {
+    list-style: none
+}
+
+button, h1, h2, h3, h4, h5, h6, input, select {
+    font-size: 100%;
+    font-family: inherit
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0
+}
+
+a {
+    text-decoration: none
+}
+
+a, body {
+    color: #666
+}
+
+body {
+    margin: 0 auto;
+    min-width: 4.26667rem;
+    max-width: 10.24rem;
+    width: 100%;
+    height: 100%;
+    font-size: .18667rem;
+    font-family: -apple-system, Helvetica, Microsoft YaHei, Arial, sans-serif;
+    line-height: 1.5;
+    -webkit-text-size-adjust: 100% !important;
+    text-size-adjust: 100% !important;
+    -webkit-user-select: none;
+    user-select: none
+}
+
+input[type=text], textarea {
+    -webkit-appearance: none;
+    appearance: none
+}
+
+html {
+    width: 100%;
+    height: 100%
+}
+
+.hide {
+    display: none !important
+}
+
+.swiper-container {
+    width: 100%;
+    height: 100vh;
+    overflow: hidden
+}
+
+.swiper-slide {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    align-items: center;
+    color: #fff;
+    font-size: .48rem
+}
+
+.slide-1 {
+    background: url("https://www.georgjensen.com/dw/image/v2/BBPS_PRD/on/demandware.static/-/Sites-master-catalog/default/dw672c958a/images/hi-res/pack___3586352_CAFU_VASE_XS_GLASS_03.png?sw=800&sh=800&sm=fit") 50% 0 no-repeat;
+    -webkit-background-size: cover;
+    background-size: cover
+}
+
+.slide-2 {
+    background: url("https://medias.expertissim.com/media/cache/object_giant_cropped/uploads/object/2014/12/22/12228048/2500x2500_54c8ea1daf2af.jpg") 50% 0 no-repeat;
+    -webkit-background-size: cover;
+    background-size: cover
+}
+
+.slide-3 {
+    background: url("https://fpscdn.yam.com/world/201806/e7/7a/5b210b7b1e77a.png") 50% 0 no-repeat;
+    -webkit-background-size: cover;
+    background-size: cover
+}
+.slide-4 {
+    background: url("https://img.udnfunlife.com/image/product/DS000046/APPROVED/DU00021478/20171226123955331_500.jpg?t=20180713134517") 50% 0 no-repeat;
+    -webkit-background-size: cover;
+    background-size: cover
+}
+
+.slide-5 {
+    background: url("https://img.aotu.io/xiaocezi/3.jpg") 50% 0 no-repeat;
+    -webkit-background-size: cover;
+    background-size: cover
+}
+
+
+
